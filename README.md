@@ -13,3 +13,17 @@ In this repository, I have shared my journey in learning statistics:
 5. Histograms: These give insights into the distribution of numerical data, helping you understand frequency and the shape of the data.
 
 6. Measures of Central Tendency: Learning about mean, median, and mode helps summarize data and understand where most values lie.
+
+7. Skewness: Analyzed data symmetry and identified skewed distributions using Excel.
+ 
+8. Variance: Calculated variance to measure the spread of data from the mean.
+
+9. Standard Deviation: Used Excel to compute the average deviation of data points from the mean.
+
+10. Coefficient of Variance: Determined relative variability to compare data consistency across datasets.
+
+11. Covariance: Explored how two variables change together using covariance.
+
+12. Correlation: Measured the strength and direction of relationships between variables.
+
+Descriptive Statistics(example)file : A comprehensive Excel file combining examples of statistical measures, including central tendency, variability, and relationships, to summarize and interpret datasets effectively. Do check it out!
