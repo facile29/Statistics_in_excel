@@ -27,3 +27,5 @@ In this repository, I have shared my journey in learning statistics:
 12. Correlation: Measured the strength and direction of relationships between variables.
 
 Descriptive Statistics(example)file : A comprehensive Excel file combining examples of statistical measures, including central tendency, variability, and relationships, to summarize and interpret datasets effectively. Do check it out!
+
+13. Standard Normal Distribution: Demonstrated the calculation and visualization of a standard normal curve in Excel, showcasing how data aligns with the z-score framework for statistical analysis.
