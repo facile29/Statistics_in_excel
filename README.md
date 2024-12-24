@@ -22,10 +22,18 @@ In this repository, I have shared my journey in learning statistics:
 
 10. Coefficient of Variance: Determined relative variability to compare data consistency across datasets.
 
-11. Covariance: Explored how two variables change together using covariance.
+11. Covariance: Explored how two variables change together using covarianConfidence ce.
 
 12. Correlation: Measured the strength and direction of relationships between variables.
 
-Descriptive Statistics(example)file : A comprehensive Excel file combining examples of statistical measures, including central tendency, variability, and relationships, to summarize and interpret datasets effectively. Do check it out!
+- Descriptive Statistics(example)file : A comprehensive Excel file combining examples of statistical measures, including central tendency, variability, and relationships, to summarize and interpret datasets effectively. Do check it out!
 
 13. Standard Normal Distribution: Demonstrated the calculation and visualization of a standard normal curve in Excel, showcasing how data aligns with the z-score framework for statistical analysis.
+
+14. Student's t-Distribution: Illustrated the application of the t-distribution for smaller sample sizes and unknown population variances.
+
+15. CI for Two Means (Dependent Samples): Explored confidence intervals for paired sample comparisons to understand related group differences.
+
+16. CI for Two Means (Independent Samples): Analyzed and compared means of two independent groups using confidence intervals.
+
+- Confidence Interval(example) file: A consolidated Excel file showcasing examples of confidence interval calculations for population parameters, including single samples, two independent samples, and dependent samples, with practical insights for statistical inference.
