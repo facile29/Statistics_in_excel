@@ -37,3 +37,11 @@ In this repository, I have shared my journey in learning statistics:
 16. CI for Two Means (Independent Samples): Analyzed and compared means of two independent groups using confidence intervals.
 
 - Confidence Interval(example) file: A consolidated Excel file showcasing examples of confidence interval calculations for population parameters, including single samples, two independent samples, and dependent samples, with practical insights for statistical inference.
+
+17. Hypothesis Testing (Two-Tailed Test): A Excel file containing examples and calculations for performing a two-tailed hypothesis test.
+
+- Hypothesis Testing (example) File: A separate Excel file with a fully worked-out example demonstrating a hypothesis test.
+
+ Wanna learn Statitics do go through all the topics with their examples.
+ 
+  
